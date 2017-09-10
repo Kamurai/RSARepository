@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.0/notation" xmlns:uml="http://www.eclipse.org/uml2/2.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_cjFpEBzqEd-QmMkv1lV8hw" type="Class" name="stack_example.dnx">
+  <children xmi:id="_m82SMBzqEd-QmMkv1lV8hw">
+    <children xmi:id="_m9JNIBzqEd-QmMkv1lV8hw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_m9JNIRzqEd-QmMkv1lV8hw" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_m9JNIhzqEd-QmMkv1lV8hw" type="Stereotype"/>
+    <children xmi:id="_m9JNIxzqEd-QmMkv1lV8hw" type="Name"/>
+    <children xmi:id="_m9JNJBzqEd-QmMkv1lV8hw" type="Parent"/>
+    <children xmi:id="_m9JNJRzqEd-QmMkv1lV8hw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_m9JNJhzqEd-QmMkv1lV8hw"/>
+    </children>
+    <children xmi:id="_m9JNJxzqEd-QmMkv1lV8hw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_m9JNKBzqEd-QmMkv1lV8hw"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_m82SMRzqEd-QmMkv1lV8hw" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Stack%5Bjcu%5Ename=Stack.java%5Bjpack%5Ename=stack_example%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CS%203650%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m82SMhzqEd-QmMkv1lV8hw" x="5389" y="3487"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_cjYkABzqEd-QmMkv1lV8hw"/>
+  <element xsi:nil="true"/>
+</notation:Diagram>

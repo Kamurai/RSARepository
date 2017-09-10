@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 5\Kemerait1.zip"/>
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 5\Kemerait.zip"/>
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 4\Kemarait.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 5\Assignment5v5r.zip"/>
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 5\Assignment5.zip"/>
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 4\Assignment4.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 5\Post5 Baseline"/>
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 5\Pre5 Baseline"/>
+			<item value="D:\House\Classes\KSU\Fall 10\CS 4620\Assignment 4"/>
+		</list>
+	</section>
+</section>

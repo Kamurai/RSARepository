@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.0/notation" xmlns:uml="http://www.eclipse.org/uml2/2.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_fVIg4ENgEd-MVqSiMifHOg" type="Class" name="wargame.dnx">
+  <children xmi:id="_l1sq4ENgEd-MVqSiMifHOg">
+    <children xmi:id="_l1100ENgEd-MVqSiMifHOg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_l1100UNgEd-MVqSiMifHOg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_l1100kNgEd-MVqSiMifHOg" type="Stereotype"/>
+    <children xmi:id="_l11000NgEd-MVqSiMifHOg" type="Name"/>
+    <children xmi:id="_l1101ENgEd-MVqSiMifHOg" type="Parent"/>
+    <children xmi:id="_l1_l0ENgEd-MVqSiMifHOg" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_l1_l0UNgEd-MVqSiMifHOg"/>
+    </children>
+    <children xmi:id="_l1_l0kNgEd-MVqSiMifHOg" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_l1_l00NgEd-MVqSiMifHOg"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_l1sq4UNgEd-MVqSiMifHOg" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=WarGame%5Bjcu%5Ename=WarGame.java%5Bjpack%5Ename=wargame%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CS%203650%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l1sq4kNgEd-MVqSiMifHOg" x="1427" y="5682"/>
+  </children>
+  <children xmi:id="_rrahEkNgEd-MVqSiMifHOg">
+    <children xmi:id="_rrkSEENgEd-MVqSiMifHOg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_rrkSEUNgEd-MVqSiMifHOg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_rrkSEkNgEd-MVqSiMifHOg" type="Stereotype"/>
+    <children xmi:id="_rrkSE0NgEd-MVqSiMifHOg" type="Name"/>
+    <children xmi:id="_rrkSFENgEd-MVqSiMifHOg" type="Parent"/>
+    <children xmi:id="_rrkSFUNgEd-MVqSiMifHOg" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_rrkSFkNgEd-MVqSiMifHOg"/>
+    </children>
+    <children xmi:id="_rrkSF0NgEd-MVqSiMifHOg" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_rrkSGENgEd-MVqSiMifHOg"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_rrahE0NgEd-MVqSiMifHOg" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=WarHand%5Bjcu%5Ename=WarHand.java%5Bjpack%5Ename=wargame%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CS%203650%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rrahFENgEd-MVqSiMifHOg" x="13314" y="5706"/>
+  </children>
+  <children xmi:id="_tI_SUUNgEd-MVqSiMifHOg">
+    <children xmi:id="_tI_SVENgEd-MVqSiMifHOg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_tI_SVUNgEd-MVqSiMifHOg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_tI_SVkNgEd-MVqSiMifHOg" type="Stereotype"/>
+    <children xmi:id="_tI_SV0NgEd-MVqSiMifHOg" type="Name"/>
+    <children xmi:id="_tI_SWENgEd-MVqSiMifHOg" type="Parent"/>
+    <children xmi:id="_tI_SWUNgEd-MVqSiMifHOg" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_tI_SWkNgEd-MVqSiMifHOg"/>
+    </children>
+    <children xmi:id="_tI_SW0NgEd-MVqSiMifHOg" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_tI_SXENgEd-MVqSiMifHOg"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_tI_SUkNgEd-MVqSiMifHOg" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Deck%5Bjcu%5Ename=Deck.java%5Bjpack%5Ename=wargame%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CS%203650%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tI_SU0NgEd-MVqSiMifHOg" x="7608" y="1268"/>
+  </children>
+  <children xmi:id="_uAVxEENgEd-MVqSiMifHOg">
+    <children xmi:id="_uAVxE0NgEd-MVqSiMifHOg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_uAVxFENgEd-MVqSiMifHOg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_uAVxFUNgEd-MVqSiMifHOg" type="Stereotype"/>
+    <children xmi:id="_uAVxFkNgEd-MVqSiMifHOg" type="Name"/>
+    <children xmi:id="_uAVxF0NgEd-MVqSiMifHOg" type="Parent"/>
+    <children xmi:id="_uAVxGENgEd-MVqSiMifHOg" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_uAVxGUNgEd-MVqSiMifHOg"/>
+    </children>
+    <children xmi:id="_uAVxGkNgEd-MVqSiMifHOg" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_uAVxG0NgEd-MVqSiMifHOg"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_uAVxEUNgEd-MVqSiMifHOg" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Card%5Bjcu%5Ename=Card.java%5Bjpack%5Ename=wargame%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CS%203650%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uAVxEkNgEd-MVqSiMifHOg" x="19654" y="2536"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_fVIg4UNgEd-MVqSiMifHOg"/>
+  <element xsi:nil="true"/>
+</notation:Diagram>

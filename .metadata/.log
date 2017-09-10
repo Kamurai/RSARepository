@@ -1,0 +1,33 @@
+!SESSION 2010-10-04 11:51:05.858 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-04 11:51:59.123
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-04 11:51:59.124
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-04 11:51:59.124
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-04 11:51:59.138
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-04 11:51:59.139
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-04 11:51:59.139
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-04 11:51:59.140
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-04 11:51:59.140
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'

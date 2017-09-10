@@ -1,0 +1,1111 @@
+!SESSION 2010-10-17 21:55:00.508 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-17 21:55:28.950
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-17 21:55:28.951
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-17 21:55:28.951
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-17 21:55:28.952
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-17 21:55:28.952
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-17 21:55:28.952
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-17 21:55:28.953
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-17 21:55:28.953
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-10-18 13:01:11.878 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:01:29.658
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:01:29.683
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:01:29.683
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:01:29.683
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:01:29.683
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:01:29.683
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:01:29.683
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:01:29.683
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-10-18 13:23:35.094 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.core.resources 2 10035 2010-10-18 13:33:26.163
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:33:29.039
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:33:29.039
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:33:29.039
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:33:29.040
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:33:29.040
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:33:29.040
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:33:29.041
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-18 13:33:29.041
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+
+!ENTRY org.eclipse.osgi 2 1 2010-10-18 14:36:59.397
+!MESSAGE NLS missing message: DATATOOLS_PROJECT_UI_EXPLORER_DIAGRAM_FOLDER in: com.ibm.datatools.diagram.core.l10n.diagramCore
+!SESSION 2010-10-19 18:14:29.407 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-19 18:14:51.613
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-19 18:14:51.763
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-19 18:14:51.764
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-19 18:14:51.765
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-19 18:14:51.765
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-19 18:14:51.766
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-19 18:14:51.766
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-19 18:14:51.767
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-10-24 17:30:05.304 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-24 17:30:22.008
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-24 17:30:22.054
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-24 17:30:22.055
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-24 17:30:22.055
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-24 17:30:22.057
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-24 17:30:22.057
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-24 17:30:22.058
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-24 17:30:22.058
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-10-26 20:12:13.442 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-26 20:46:28.683
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-26 20:46:28.698
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-26 20:46:28.698
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-26 20:46:28.698
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-26 20:46:28.698
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-26 20:46:28.698
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-26 20:46:28.698
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-26 20:46:28.698
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-10-30 00:50:57.580 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 00:51:11.889
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 00:51:11.906
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 00:51:11.906
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 00:51:11.907
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 00:51:11.907
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 00:51:11.908
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 00:51:11.908
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 00:51:11.909
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+
+!ENTRY org.eclipse.ui.navigator 4 0 2010-10-30 00:51:28.136
+!MESSAGE Could not acquire children from extension: com.ibm.xtools.modeler.ui.navigator.internal.providers.content.umlModelContent
+!STACK 0
+java.util.ConcurrentModificationException: concurrent access to HashMap attempted by Thread[Framework Event Dispatcher,5,main]
+	at java.util.HashMap.onEntry(HashMap.java:214)
+	at java.util.HashMap.transfer(HashMap.java:686)
+	at java.util.HashMap.resize(HashMap.java:676)
+	at java.util.HashMap.addEntry(HashMap.java:1049)
+	at java.util.HashMap.put(HashMap.java:561)
+	at java.util.HashSet.add(HashSet.java:219)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.content.UMLNavigatorContentProvider.getFilteredTypes(UMLNavigatorContentProvider.java:1529)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.content.UMLNavigatorContentProvider.<init>(UMLNavigatorContentProvider.java:207)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.UMLNavigatorContentProviderWrapper.getDelegate(UMLNavigatorContentProviderWrapper.java:247)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.UMLNavigatorContentProviderWrapper.getParent(UMLNavigatorContentProviderWrapper.java:82)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.getParent(SafeDelegateTreeContentProvider.java:103)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.findParents(NavigatorContentServiceContentProvider.java:850)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.findPaths(NavigatorContentServiceContentProvider.java:789)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.getParents(NavigatorContentServiceContentProvider.java:671)
+	at org.eclipse.ui.internal.navigator.NavigatorSaveablesService.computeSaveables(NavigatorSaveablesService.java:239)
+	at org.eclipse.ui.internal.navigator.NavigatorSaveablesService.recomputeSaveablesAndNotify(NavigatorSaveablesService.java:495)
+	at org.eclipse.ui.internal.navigator.NavigatorSaveablesService.handleBundleStarted(NavigatorSaveablesService.java:566)
+	at org.eclipse.ui.internal.navigator.NavigatorSaveablesService.bundleChanged(NavigatorSaveablesService.java:95)
+	at org.eclipse.ui.internal.navigator.NavigatorPlugin$1.bundleChanged(NavigatorPlugin.java:89)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.dispatchEvent(BundleContextImpl.java:1202)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:189)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:291)
+
+!ENTRY org.eclipse.ui 4 4 2010-10-30 00:51:28.145
+!MESSAGE Unhandled event loop exception
+
+!ENTRY org.eclipse.ui 4 0 2010-10-30 00:51:28.146
+!MESSAGE Failed to execute runnable (java.util.ConcurrentModificationException: concurrent access to HashMap attempted by Thread[main,6,main])
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.util.ConcurrentModificationException: concurrent access to HashMap attempted by Thread[main,6,main])
+	at org.eclipse.swt.SWT.error(SWT.java:3374)
+	at org.eclipse.swt.SWT.error(SWT.java:3297)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:126)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3325)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2971)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1930)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1894)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:422)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:95)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:78)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:92)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:68)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:79)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:618)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:996)
+	at org.eclipse.core.launcher.Main.main(Main.java:971)
+Caused by: java.util.ConcurrentModificationException: concurrent access to HashMap attempted by Thread[main,6,main]
+	at java.util.HashMap.onExit(HashMap.java:226)
+	at java.util.HashMap.transfer(HashMap.java:690)
+	at java.util.HashMap.resize(HashMap.java:676)
+	at java.util.HashMap.addEntry(HashMap.java:1049)
+	at java.util.HashMap.put(HashMap.java:561)
+	at java.util.HashSet.add(HashSet.java:219)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.content.UMLNavigatorContentProvider.getFilteredTypes(UMLNavigatorContentProvider.java:1529)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.content.UMLNavigatorContentProvider.<init>(UMLNavigatorContentProvider.java:207)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.UMLNavigatorContentProviderWrapper.getDelegate(UMLNavigatorContentProviderWrapper.java:247)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.UMLNavigatorContentProviderWrapper.access$2(UMLNavigatorContentProviderWrapper.java:243)
+	at com.ibm.xtools.modeler.ui.navigator.internal.providers.UMLNavigatorContentProviderWrapper$3.run(UMLNavigatorContentProviderWrapper.java:316)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:123)
+	... 20 more
+!SESSION 2010-10-30 06:31:17.186 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 06:31:26.374
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 06:31:26.375
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 06:31:26.375
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 06:31:26.376
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 06:31:26.378
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 06:31:26.379
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 06:31:26.379
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 06:31:26.379
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-10-30 11:14:20.183 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 11:14:28.262
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 11:14:28.263
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 11:14:28.263
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 11:14:28.323
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 11:14:28.323
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 11:14:28.324
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 11:14:28.324
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-10-30 11:14:28.336
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-01 18:12:56.125 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 18:13:18.824
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 18:13:18.870
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 18:13:18.870
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 18:13:18.870
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 18:13:18.870
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 18:13:18.870
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 18:13:18.870
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 18:13:18.870
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-01 21:19:08.019 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 21:20:39.405
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 21:20:39.519
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 21:20:39.519
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 21:20:39.520
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 21:20:39.521
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 21:20:39.521
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 21:20:39.522
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 21:20:39.523
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-01 22:09:26.635 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 22:11:26.696
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 22:11:26.700
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 22:11:26.701
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 22:11:26.702
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 22:11:26.702
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 22:11:26.704
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 22:11:26.704
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-01 22:11:26.705
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-02 20:04:53.649 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-02 20:05:06.394
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-02 20:05:06.425
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-02 20:05:06.425
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-02 20:05:06.425
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-02 20:05:06.425
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-02 20:05:06.425
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-02 20:05:06.425
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-02 20:05:06.425
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-04 15:41:35.748 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 15:42:09.724
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 15:42:09.818
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 15:42:09.819
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 15:42:09.819
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 15:42:09.820
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 15:42:09.820
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 15:42:09.821
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 15:42:09.822
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-04 19:23:06.768 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 19:23:27.264
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 19:23:27.285
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 19:23:27.286
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 19:23:27.286
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 19:23:27.307
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 19:23:27.308
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 19:23:27.309
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 19:23:27.311
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-04 23:07:22.595 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 23:07:35.639
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 23:07:35.661
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 23:07:35.662
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 23:07:35.662
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 23:07:35.663
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 23:07:35.664
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 23:07:35.665
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-04 23:07:35.665
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-06 13:03:28.832 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-06 13:03:47.569
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-06 13:03:47.582
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-06 13:03:47.583
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-06 13:03:47.583
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-06 13:03:47.584
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-06 13:03:47.584
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-06 13:03:47.585
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-06 13:03:47.585
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-14 12:53:11.178 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-14 12:53:28.300
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-14 12:53:28.319
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-14 12:53:28.319
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-14 12:53:28.321
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-14 12:53:28.322
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-14 12:53:28.323
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-14 12:53:28.324
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-14 12:53:28.324
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-16 18:20:55.140 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 18:21:13.427
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 18:21:13.480
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 18:21:13.482
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 18:21:13.482
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 18:21:13.483
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 18:21:13.484
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 18:21:13.485
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 18:21:13.485
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-16 19:26:53.289 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 19:27:07.849
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 19:27:07.850
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 19:27:07.851
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 19:27:07.852
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 19:27:07.852
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 19:27:07.853
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 19:27:07.853
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 19:27:07.853
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-16 20:01:41.035 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 20:01:50.067
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 20:01:50.068
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 20:01:50.069
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 20:01:50.070
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 20:01:50.070
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 20:01:50.071
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 20:01:50.072
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-16 20:01:50.072
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-24 15:16:48.522 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-24 15:17:10.829
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-24 15:17:10.872
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-24 15:17:10.872
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-24 15:17:10.873
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-24 15:17:10.873
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-24 15:17:10.873
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-24 15:17:10.874
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-24 15:17:10.874
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+!SESSION 2010-11-25 14:08:11.575 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-25 14:08:31.297
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-25 14:08:31.418
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-25 14:08:31.419
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-25 14:08:31.419
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-25 14:08:31.420
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-25 14:08:31.420
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-25 14:08:31.421
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-25 14:08:31.421
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'
+
+!ENTRY org.eclipse.gmf.runtime.common.ui 4 4 2010-11-25 14:09:15.803
+!MESSAGE createFile
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: A resource already exists on disk D:\House\Programming\RSA\CS 4620\Post5Base\Blank Model.emx.
+	at org.eclipse.core.internal.resources.File.create(File.java:142)
+	at org.eclipse.core.internal.resources.File.create(File.java:179)
+	at org.eclipse.gmf.runtime.common.ui.util.FileUtil.createFile(FileUtil.java:57)
+	at com.ibm.xtools.modeler.ui.wizards.internal.CreateNewModelWizardPage.createNewFilewithMonitor(CreateNewModelWizardPage.java:964)
+	at com.ibm.xtools.modeler.ui.wizards.internal.CreateNewModelWizardPage.createNewFile(CreateNewModelWizardPage.java:538)
+	at com.ibm.xtools.modeler.ui.wizards.internal.CreateNewModelWizardPage.finishPage(CreateNewModelWizardPage.java:915)
+	at com.ibm.xtools.modeler.ui.wizards.internal.BasicNewModelingProjectWizard.finishPage(BasicNewModelingProjectWizard.java:146)
+	at com.ibm.xtools.modeler.ui.wizards.internal.AbstractBasicModelWizard$1.execute(AbstractBasicModelWizard.java:201)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:101)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:113)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:369)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:313)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:851)
+	at com.ibm.xtools.modeler.ui.wizards.internal.AbstractBasicModelWizard.performFinish(AbstractBasicModelWizard.java:208)
+	at com.ibm.xtools.modeler.ui.wizards.internal.BasicNewModelingProjectWizard.performFinish(BasicNewModelingProjectWizard.java:331)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:680)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:355)
+	at org.eclipse.jface.dialogs.Dialog$3.widgetSelected(Dialog.java:660)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:90)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:820)
+	at org.eclipse.jface.window.Window.open(Window.java:796)
+	at org.eclipse.ui.actions.NewProjectAction.run(NewProjectAction.java:116)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:499)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:539)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:488)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:400)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1930)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1894)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:422)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:95)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:78)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:92)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:68)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:79)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:618)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:996)
+	at org.eclipse.core.launcher.Main.main(Main.java:971)
+!SUBENTRY 1 org.eclipse.core.resources 4 272 2010-11-25 14:09:15.843
+!MESSAGE A resource already exists on disk D:\House\Programming\RSA\CS 4620\Post5Base\Blank Model.emx.
+
+!ENTRY com.ibm.xtools.modeler.ui.wizards 2 10 2010-11-25 14:09:15.845
+!MESSAGE A resource already exists on disk D:\House\Programming\RSA\CS 4620\Post5Base\Blank Model.emx.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: A resource already exists on disk D:\House\Programming\RSA\CS 4620\Post5Base\Blank Model.emx.
+	at org.eclipse.core.internal.resources.File.create(File.java:142)
+	at org.eclipse.core.internal.resources.File.create(File.java:179)
+	at org.eclipse.gmf.runtime.common.ui.util.FileUtil.createFile(FileUtil.java:57)
+	at com.ibm.xtools.modeler.ui.wizards.internal.CreateNewModelWizardPage.createNewFilewithMonitor(CreateNewModelWizardPage.java:964)
+	at com.ibm.xtools.modeler.ui.wizards.internal.CreateNewModelWizardPage.createNewFile(CreateNewModelWizardPage.java:538)
+	at com.ibm.xtools.modeler.ui.wizards.internal.CreateNewModelWizardPage.finishPage(CreateNewModelWizardPage.java:915)
+	at com.ibm.xtools.modeler.ui.wizards.internal.BasicNewModelingProjectWizard.finishPage(BasicNewModelingProjectWizard.java:146)
+	at com.ibm.xtools.modeler.ui.wizards.internal.AbstractBasicModelWizard$1.execute(AbstractBasicModelWizard.java:201)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:101)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:113)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:369)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:313)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:851)
+	at com.ibm.xtools.modeler.ui.wizards.internal.AbstractBasicModelWizard.performFinish(AbstractBasicModelWizard.java:208)
+	at com.ibm.xtools.modeler.ui.wizards.internal.BasicNewModelingProjectWizard.performFinish(BasicNewModelingProjectWizard.java:331)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:680)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:355)
+	at org.eclipse.jface.dialogs.Dialog$3.widgetSelected(Dialog.java:660)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:90)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:820)
+	at org.eclipse.jface.window.Window.open(Window.java:796)
+	at org.eclipse.ui.actions.NewProjectAction.run(NewProjectAction.java:116)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:499)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:539)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:488)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:400)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1930)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1894)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:422)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:95)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:78)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:92)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:68)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:79)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:618)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:996)
+	at org.eclipse.core.launcher.Main.main(Main.java:971)
+!SUBENTRY 1 org.eclipse.core.resources 4 272 2010-11-25 14:09:15.845
+!MESSAGE A resource already exists on disk D:\House\Programming\RSA\CS 4620\Post5Base\Blank Model.emx.
+
+!ENTRY com.ibm.xtools.modeler.ui.wizards 4 5 2010-11-25 14:09:24.326
+!MESSAGE Failed to create new project
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource /Post5Base already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:299)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:272)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:273)
+	at com.ibm.xtools.modeler.ui.wizards.internal.NewModelWizardPage.createProject(NewModelWizardPage.java:652)
+	at com.ibm.xtools.modeler.ui.wizards.internal.NewModelWizardPage.finishPage(NewModelWizardPage.java:583)
+	at com.ibm.xtools.modeler.ui.wizards.internal.CreateNewModelWizardPage.finishPage(CreateNewModelWizardPage.java:904)
+	at com.ibm.xtools.modeler.ui.wizards.internal.BasicNewModelingProjectWizard.finishPage(BasicNewModelingProjectWizard.java:146)
+	at com.ibm.xtools.modeler.ui.wizards.internal.AbstractBasicModelWizard$1.execute(AbstractBasicModelWizard.java:201)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:101)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:113)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:369)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:313)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:851)
+	at com.ibm.xtools.modeler.ui.wizards.internal.AbstractBasicModelWizard.performFinish(AbstractBasicModelWizard.java:208)
+	at com.ibm.xtools.modeler.ui.wizards.internal.BasicNewModelingProjectWizard.performFinish(BasicNewModelingProjectWizard.java:331)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:680)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:355)
+	at org.eclipse.jface.dialogs.Dialog$3.widgetSelected(Dialog.java:660)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:90)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:820)
+	at org.eclipse.jface.window.Window.open(Window.java:796)
+	at org.eclipse.ui.actions.NewProjectAction.run(NewProjectAction.java:116)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:499)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:539)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:488)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:400)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1930)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1894)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:422)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:95)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:78)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:92)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:68)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:79)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:618)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:996)
+	at org.eclipse.core.launcher.Main.main(Main.java:971)
+!SUBENTRY 1 org.eclipse.core.resources 4 374 2010-11-25 14:09:24.362
+!MESSAGE Resource /Post5Base already exists.
+
+!ENTRY com.ibm.xtools.modeler.ui.wizards 4 5 2010-11-25 14:09:40.795
+!MESSAGE Failed to create new project
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource /Post5Base already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:299)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:272)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:273)
+	at com.ibm.xtools.modeler.ui.wizards.internal.NewModelWizardPage.createProject(NewModelWizardPage.java:652)
+	at com.ibm.xtools.modeler.ui.wizards.internal.NewModelWizardPage.finishPage(NewModelWizardPage.java:583)
+	at com.ibm.xtools.modeler.ui.wizards.internal.CreateNewModelWizardPage.finishPage(CreateNewModelWizardPage.java:904)
+	at com.ibm.xtools.modeler.ui.wizards.internal.BasicNewModelingProjectWizard.finishPage(BasicNewModelingProjectWizard.java:146)
+	at com.ibm.xtools.modeler.ui.wizards.internal.AbstractBasicModelWizard$1.execute(AbstractBasicModelWizard.java:201)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:101)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1737)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:113)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:369)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:313)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:851)
+	at com.ibm.xtools.modeler.ui.wizards.internal.AbstractBasicModelWizard.performFinish(AbstractBasicModelWizard.java:208)
+	at com.ibm.xtools.modeler.ui.wizards.internal.BasicNewModelingProjectWizard.performFinish(BasicNewModelingProjectWizard.java:331)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:680)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:355)
+	at org.eclipse.jface.dialogs.Dialog$3.widgetSelected(Dialog.java:660)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:90)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:820)
+	at org.eclipse.jface.window.Window.open(Window.java:796)
+	at org.eclipse.ui.actions.NewProjectAction.run(NewProjectAction.java:116)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:499)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:539)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:488)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:400)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:928)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3348)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2968)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1930)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1894)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:422)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:95)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:78)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:92)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:68)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:79)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:618)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:336)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:280)
+	at org.eclipse.core.launcher.Main.run(Main.java:996)
+	at org.eclipse.core.launcher.Main.main(Main.java:971)
+!SUBENTRY 1 org.eclipse.core.resources 4 374 2010-11-25 14:09:40.796
+!MESSAGE Resource /Post5Base already exists.
+!SESSION 2010-11-28 11:46:06.927 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows Vista x86-32 j9vmwi3223-20090707 (JIT enabled)
+J9VM - 20090706_38445_lHdSMr
+JIT  - 20090623_1334_r8
+GC   - 200906_09
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-28 11:46:18.237
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/schema.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-28 11:46:18.252
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/tables.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-28 11:46:18.252
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/constraints.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-28 11:46:18.252
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-28 11:46:18.252
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/expressions.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-28 11:46:18.252
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/statements.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-28 11:46:18.252
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/accesscontrol.ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2010-11-28 11:46:18.268
+!MESSAGE Both 'com.ibm.datatools.core' and 'org.eclipse.datatools.modelbase.sql' register a package for 'http:///org/eclipse/datatools/modelbase/sql/routines.ecore'

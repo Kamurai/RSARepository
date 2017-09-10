@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewModelWizard">
+		<item key="NewModelWizardPage.defaultDiagramTypeForModelSetting" value="0"/>
+		<item key="NewModelWizardPage.createDefaultDiagramForModelSetting" value="false"/>
+	</section>
+</section>
